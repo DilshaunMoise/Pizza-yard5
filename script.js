@@ -45,7 +45,7 @@ const CONFIG = {
     "Sausage"
   ],
 
-  formspreeEndpoint: "YOUR_EMAIL_SERVICE_ENDPOINT"
+  formspreeEndpoint: "https://formspree.io/f/xdenabwa"
 };
 
 const TOPPING_ICONS = {
